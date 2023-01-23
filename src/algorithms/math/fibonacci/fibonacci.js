@@ -1,6 +1,6 @@
 /**
  * Return a fibonacci sequence as an array.
- *
+ * ALGORTIMO FIBONACCI
  * @param n
  * @return {number[]}
  */
